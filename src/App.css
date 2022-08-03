@@ -1,0 +1,15 @@
+.img {
+  display:flex;
+  justify-content: center;
+
+  padding: 100px;
+}
+
+.name{
+  background-color: blue;
+  color: brown;
+
+
+
+
+}
